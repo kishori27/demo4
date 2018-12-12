@@ -1,0 +1,9 @@
+com\jbk\QA\pages\RegistrationPage.class
+com\jbk\QA\pages\OperatorPage.class
+com\jbk\QA\pages\UserPage.class
+com\jbk\QA\pages\AddUserPage.class
+com\jbk\QA\pages\DashBoardPage.class
+com\jbk\QA\pages\LoginPage.class
+com\jbk\QA\Base\TestBase.class
+com\jbk\QA\ExtentReportListeners\ExtentReportNG.class
+com\jbk\QA\pages\LogoutPage.class

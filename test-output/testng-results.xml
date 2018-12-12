@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="154197" started-at="2018-11-21T06:42:01Z" finished-at="2018-11-21T06:44:36Z">
+    <groups>
+    </groups>
+    <test name="AdminLTE_POM_1" duration-ms="154197" started-at="2018-11-21T06:42:01Z" finished-at="2018-11-21T06:44:36Z">
+      <class name="com.jbk.QA.TestCases.RegistrationPage_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.RegistrationPage_Test@6093dd95]" name="setUp" is-config="true" duration-ms="13144" started-at="2018-11-21T06:42:35Z" finished-at="2018-11-21T06:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyNewMemberTitle()[pri:1, instance:com.jbk.QA.TestCases.RegistrationPage_Test@6093dd95]" name="verifyNewMemberTitle" duration-ms="16" started-at="2018-11-21T06:42:48Z" finished-at="2018-11-21T06:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewMemberTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jbk.QA.TestCases.RegistrationPage_Test@6093dd95]" name="teardown" is-config="true" duration-ms="383" started-at="2018-11-21T06:42:48Z" finished-at="2018-11-21T06:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.RegistrationPage_Test@6093dd95]" name="setUp" is-config="true" duration-ms="12844" started-at="2018-11-21T06:44:03Z" finished-at="2018-11-21T06:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPlaceholder()[pri:2, instance:com.jbk.QA.TestCases.RegistrationPage_Test@6093dd95]" name="verifyPlaceholder" duration-ms="115" started-at="2018-11-21T06:44:16Z" finished-at="2018-11-21T06:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceholder -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jbk.QA.TestCases.RegistrationPage_Test@6093dd95]" name="teardown" is-config="true" duration-ms="334" started-at="2018-11-21T06:44:16Z" finished-at="2018-11-21T06:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.jbk.QA.TestCases.RegistrationPage_Test -->
+      <class name="com.jbk.QA.TestCases.LoginpageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.jbk.QA.TestCases.LoginpageTest@7d9d1a19]" name="SetUp" is-config="true" duration-ms="13033" started-at="2018-11-21T06:43:18Z" finished-at="2018-11-21T06:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginPageTitleTest()[pri:1, instance:com.jbk.QA.TestCases.LoginpageTest@7d9d1a19]" name="LoginPageTitleTest" duration-ms="25" started-at="2018-11-21T06:43:31Z" finished-at="2018-11-21T06:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbk.QA.TestCases.LoginpageTest@7d9d1a19]" name="tearDown" is-config="true" duration-ms="361" started-at="2018-11-21T06:43:31Z" finished-at="2018-11-21T06:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jbk.QA.TestCases.LoginpageTest -->
+      <class name="com.jbk.QA.TestCases.DashboardPage_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.DashboardPage_Test@4883b407]" name="setUp" is-config="true" duration-ms="14779" started-at="2018-11-21T06:43:03Z" finished-at="2018-11-21T06:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDashboardTitle()[pri:1, instance:com.jbk.QA.TestCases.DashboardPage_Test@4883b407]" name="verifyDashboardTitle" duration-ms="11" started-at="2018-11-21T06:43:18Z" finished-at="2018-11-21T06:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashboardTitle -->
+      </class> <!-- com.jbk.QA.TestCases.DashboardPage_Test -->
+      <class name="com.jbk.QA.TestCases.UserPage_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.UserPage_Test@6d4b1c02]" name="setUp" is-config="true" duration-ms="15583" started-at="2018-11-21T06:42:19Z" finished-at="2018-11-21T06:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyuserpagesubtitle()[pri:1, instance:com.jbk.QA.TestCases.UserPage_Test@6d4b1c02]" name="verifyuserpagesubtitle" duration-ms="19" started-at="2018-11-21T06:42:35Z" finished-at="2018-11-21T06:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyuserpagesubtitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbk.QA.TestCases.UserPage_Test@6d4b1c02]" name="tearDown" is-config="true" duration-ms="385" started-at="2018-11-21T06:42:35Z" finished-at="2018-11-21T06:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.UserPage_Test@6d4b1c02]" name="setUp" is-config="true" duration-ms="15175" started-at="2018-11-21T06:43:47Z" finished-at="2018-11-21T06:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="valiadteAdduser()[pri:2, instance:com.jbk.QA.TestCases.UserPage_Test@6d4b1c02]" name="valiadteAdduser" duration-ms="383" started-at="2018-11-21T06:44:03Z" finished-at="2018-11-21T06:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valiadteAdduser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbk.QA.TestCases.UserPage_Test@6d4b1c02]" name="tearDown" is-config="true" duration-ms="419" started-at="2018-11-21T06:44:03Z" finished-at="2018-11-21T06:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jbk.QA.TestCases.UserPage_Test -->
+      <class name="com.jbk.QA.TestCases.AddUserPage_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.AddUserPage_Test@7cd62f43]" name="setUp" is-config="true" duration-ms="17038" started-at="2018-11-21T06:42:02Z" finished-at="2018-11-21T06:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAddUserTitle()[pri:1, instance:com.jbk.QA.TestCases.AddUserPage_Test@7cd62f43]" name="verifyAddUserTitle" duration-ms="44" started-at="2018-11-21T06:42:19Z" finished-at="2018-11-21T06:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddUserTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jbk.QA.TestCases.AddUserPage_Test@7cd62f43]" name="teardown" is-config="true" duration-ms="352" started-at="2018-11-21T06:42:19Z" finished-at="2018-11-21T06:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.AddUserPage_Test@7cd62f43]" name="setUp" is-config="true" duration-ms="15445" started-at="2018-11-21T06:43:31Z" finished-at="2018-11-21T06:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPlaceholders()[pri:2, instance:com.jbk.QA.TestCases.AddUserPage_Test@7cd62f43]" name="verifyPlaceholders" duration-ms="99" started-at="2018-11-21T06:43:47Z" finished-at="2018-11-21T06:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceholders -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jbk.QA.TestCases.AddUserPage_Test@7cd62f43]" name="teardown" is-config="true" duration-ms="381" started-at="2018-11-21T06:43:47Z" finished-at="2018-11-21T06:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.jbk.QA.TestCases.AddUserPage_Test -->
+      <class name="com.jbk.QA.TestCases.OperatorPage_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.OperatorPage_Test@5622fdf]" name="setUp" is-config="true" duration-ms="14368" started-at="2018-11-21T06:42:48Z" finished-at="2018-11-21T06:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyoperatorlisttitle()[pri:1, instance:com.jbk.QA.TestCases.OperatorPage_Test@5622fdf]" name="verifyoperatorlisttitle" duration-ms="14" started-at="2018-11-21T06:43:03Z" finished-at="2018-11-21T06:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyoperatorlisttitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jbk.QA.TestCases.OperatorPage_Test@5622fdf]" name="teardown" is-config="true" duration-ms="392" started-at="2018-11-21T06:43:03Z" finished-at="2018-11-21T06:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.OperatorPage_Test@5622fdf]" name="setUp" is-config="true" duration-ms="18420" started-at="2018-11-21T06:44:17Z" finished-at="2018-11-21T06:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTextBox()[pri:2, instance:com.jbk.QA.TestCases.OperatorPage_Test@5622fdf]" name="verifyTextBox" duration-ms="1" started-at="2018-11-21T06:44:35Z" finished-at="2018-11-21T06:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTextBox -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jbk.QA.TestCases.OperatorPage_Test@5622fdf]" name="teardown" is-config="true" duration-ms="558" started-at="2018-11-21T06:44:35Z" finished-at="2018-11-21T06:44:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.jbk.QA.TestCases.OperatorPage_Test -->
+    </test> <!-- AdminLTE_POM_1 -->
+  </suite> <!-- Suite -->
+</testng-results>

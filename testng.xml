@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener 
+class-name="com.jbk.QA.ExtentReportListeners.ExtentReportNG">
+</listener>
+</listeners>
+  <test thread-count="5" name="AdminLTE_POM_1">
+    <classes>
+      <class name="com.jbk.QA.TestCases.AddUserPage_Test"/>
+      <class name="com.jbk.QA.TestCases.UserPage_Test"/>
+      <class name="com.jbk.QA.TestCases.RegistrationPage_Test"/>
+      <class name="com.jbk.QA.TestCases.OperatorPage_Test"/>
+      <class name="com.jbk.QA.TestCases.DashboardPage_Test"/>
+      <class name="com.jbk.QA.TestCases.LoginpageTest"/>
+    </classes>
+  </test> <!-- AdminLTE_POM_1 -->
+</suite> <!-- Suite -->

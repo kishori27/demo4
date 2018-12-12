@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="125467" started-at="2018-11-21T09:32:24Z" finished-at="2018-11-21T09:34:30Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="125467" started-at="2018-11-21T09:32:24Z" finished-at="2018-11-21T09:34:30Z">
+      <class name="com.jbk.QA.TestCases.RegistrationPage_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.RegistrationPage_Test@6fb554cc]" name="setUp" is-config="true" duration-ms="15564" started-at="2018-11-21T09:33:35Z" finished-at="2018-11-21T09:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyNewMemberTitle()[pri:1, instance:com.jbk.QA.TestCases.RegistrationPage_Test@6fb554cc]" name="verifyNewMemberTitle" duration-ms="11" started-at="2018-11-21T09:33:51Z" finished-at="2018-11-21T09:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewMemberTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jbk.QA.TestCases.RegistrationPage_Test@6fb554cc]" name="teardown" is-config="true" duration-ms="345" started-at="2018-11-21T09:33:51Z" finished-at="2018-11-21T09:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.jbk.QA.TestCases.RegistrationPage_Test -->
+      <class name="com.jbk.QA.TestCases.DashboardPage_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.DashboardPage_Test@60addb54]" name="setUp" is-config="true" duration-ms="17013" started-at="2018-11-21T09:32:44Z" finished-at="2018-11-21T09:33:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDashboardTitle()[pri:1, instance:com.jbk.QA.TestCases.DashboardPage_Test@60addb54]" name="verifyDashboardTitle" duration-ms="13" started-at="2018-11-21T09:33:01Z" finished-at="2018-11-21T09:33:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashboardTitle -->
+      </class> <!-- com.jbk.QA.TestCases.DashboardPage_Test -->
+      <class name="com.jbk.QA.TestCases.LoginpageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.jbk.QA.TestCases.LoginpageTest@3f2a3a5]" name="SetUp" is-config="true" duration-ms="15213" started-at="2018-11-21T09:33:01Z" finished-at="2018-11-21T09:33:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginPageTitleTest()[pri:1, instance:com.jbk.QA.TestCases.LoginpageTest@3f2a3a5]" name="LoginPageTitleTest" duration-ms="30" started-at="2018-11-21T09:33:17Z" finished-at="2018-11-21T09:33:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbk.QA.TestCases.LoginpageTest@3f2a3a5]" name="tearDown" is-config="true" duration-ms="561" started-at="2018-11-21T09:33:17Z" finished-at="2018-11-21T09:33:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jbk.QA.TestCases.LoginpageTest -->
+      <class name="com.jbk.QA.TestCases.UserPage_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.UserPage_Test@614c5515]" name="setUp" is-config="true" duration-ms="18795" started-at="2018-11-21T09:33:51Z" finished-at="2018-11-21T09:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyuserpagesubtitle()[pri:1, instance:com.jbk.QA.TestCases.UserPage_Test@614c5515]" name="verifyuserpagesubtitle" duration-ms="11" started-at="2018-11-21T09:34:10Z" finished-at="2018-11-21T09:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyuserpagesubtitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbk.QA.TestCases.UserPage_Test@614c5515]" name="tearDown" is-config="true" duration-ms="642" started-at="2018-11-21T09:34:10Z" finished-at="2018-11-21T09:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jbk.QA.TestCases.UserPage_Test -->
+      <class name="com.jbk.QA.TestCases.AddUserPage_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.AddUserPage_Test@1e67b872]" name="setUp" is-config="true" duration-ms="19799" started-at="2018-11-21T09:32:24Z" finished-at="2018-11-21T09:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAddUserTitle()[pri:1, instance:com.jbk.QA.TestCases.AddUserPage_Test@1e67b872]" name="verifyAddUserTitle" duration-ms="16" started-at="2018-11-21T09:32:44Z" finished-at="2018-11-21T09:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddUserTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jbk.QA.TestCases.AddUserPage_Test@1e67b872]" name="teardown" is-config="true" duration-ms="379" started-at="2018-11-21T09:32:44Z" finished-at="2018-11-21T09:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.AddUserPage_Test@1e67b872]" name="setUp" is-config="true" duration-ms="17347" started-at="2018-11-21T09:34:11Z" finished-at="2018-11-21T09:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPlaceholders()[pri:2, instance:com.jbk.QA.TestCases.AddUserPage_Test@1e67b872]" name="verifyPlaceholders" duration-ms="91" started-at="2018-11-21T09:34:28Z" finished-at="2018-11-21T09:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlaceholders -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jbk.QA.TestCases.AddUserPage_Test@1e67b872]" name="teardown" is-config="true" duration-ms="1350" started-at="2018-11-21T09:34:28Z" finished-at="2018-11-21T09:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.jbk.QA.TestCases.AddUserPage_Test -->
+      <class name="com.jbk.QA.TestCases.OperatorPage_Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.QA.TestCases.OperatorPage_Test@4cb2c100]" name="setUp" is-config="true" duration-ms="17883" started-at="2018-11-21T09:33:17Z" finished-at="2018-11-21T09:33:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyoperatorlisttitle()[pri:1, instance:com.jbk.QA.TestCases.OperatorPage_Test@4cb2c100]" name="verifyoperatorlisttitle" duration-ms="16" started-at="2018-11-21T09:33:35Z" finished-at="2018-11-21T09:33:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyoperatorlisttitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jbk.QA.TestCases.OperatorPage_Test@4cb2c100]" name="teardown" is-config="true" duration-ms="341" started-at="2018-11-21T09:33:35Z" finished-at="2018-11-21T09:33:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.jbk.QA.TestCases.OperatorPage_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

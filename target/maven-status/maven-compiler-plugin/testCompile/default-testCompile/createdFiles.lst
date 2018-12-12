@@ -1,0 +1,6 @@
+com\jbk\QA\TestCases\LoginpageTest.class
+com\jbk\QA\TestCases\RegistrationPage_Test.class
+com\jbk\QA\TestCases\AddUserPage_Test.class
+com\jbk\QA\TestCases\DashboardPage_Test.class
+com\jbk\QA\TestCases\UserPage_Test.class
+com\jbk\QA\TestCases\OperatorPage_Test.class
